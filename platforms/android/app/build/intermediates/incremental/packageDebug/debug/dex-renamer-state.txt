@@ -1,0 +1,4 @@
+#Wed Apr 04 16:16:11 CEST 2018
+base.0=F\:\\Users\\Benoit Costechareyre\\Documents\\Cours_LP\\Cordova\\myMorpion\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=F\:\\Users\\Benoit Costechareyre\\Documents\\Cours_LP\\Cordova\\myMorpion\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex
